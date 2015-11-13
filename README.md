@@ -2,7 +2,7 @@ Welcome to Shadowbox!
 
 Shadowbox is a powerful media player that displays your photos and videos in a beautiful, responsive lightbox on both mouse and touch screens.
 
-For more information, please see [http://shadowbox-js.com/](http://shadowbox-js.com).
+For more information, please see [http://shadowbox-js.com/](http://shadowbox-js.com) or the Wiki (http://github.com/mjijackson/shadowbox/wiki).
 
 ### Bugs
 
